@@ -12,7 +12,7 @@
 		<meta name="keywords" content="">
 
 		<!-- Title -->
-		<title>Ivan Satya GRAHA</title>
+		<title>WELCOME</title>
 
 		<!-- Google Fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,800%7COpen+Sans:400,400i,700" rel="stylesheet">
@@ -170,7 +170,7 @@
 											<!-- Summary Starts -->
 											<div class="summary col-md-10 col-sm-9 col-12">
 												<!-- Single Paragraph Starts -->
-												<p>I am a UI/UX Designer &amp; Web Developer from Silicon Valley, USA. I am very passionate and dedicated to my work. I have 5 years more work experience. And enjoy working in a team or individual.</p>
+												<p>I am a Data Scientist from Silicon Valley, USA. I am very passionate and dedicated to my work. I have years in work experience, both in a team or individuals.</p>
 												<!-- Single Paragraph Ends -->
 											</div>
 											<!-- Summary Ends -->
@@ -183,7 +183,7 @@
 															<i class="fas fa-angle-double-right"></i><span>First Name</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">Jason</span>
+														<span class="value">Wahyu Ivan</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 													<!-- Single Content On Profile Starts -->
@@ -192,7 +192,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Last Name</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">Smith</span>
+														<span class="value">Satyagraha</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 													<!-- Single Content On Profile Starts -->
@@ -201,7 +201,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Date of Birth</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">08 June 1992</span>
+														<span class="value">17 March 1997</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 													<!-- Single Content On Profile Starts -->
@@ -210,7 +210,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Nationality</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">United States</span>
+														<span class="value">Indonesian</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 												</ul>
@@ -225,7 +225,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Phone</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">+76 21 19 34 20</span>
+														<span class="value">+62 81217112817</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 													<!-- Single Content On Profile Starts -->
@@ -234,7 +234,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Email</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">you@yourwebsite.com</span>
+														<span class="value">ivan.satyagraha15@mhs.if.its.ac.id</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 													<!-- Single Content On Profile Starts -->
@@ -252,7 +252,7 @@
 															<i class="fas fa-angle-double-right"></i><span>Languages</span>
 														</span>
 														<span class="dash">-</span>
-														<span class="value">English, China</span>
+														<span class="value">English, Indonesia, Javanese</span>
 													</li>
 													<!-- Single Content On Profile Ends -->
 												</ul>
@@ -344,85 +344,6 @@
 									</div>
 									<!-- Personal Info Ends -->
 									<!-- Services Starts -->
-									<div id="services">
-										<!-- Services Heading Starts -->
-										<h5>Services</h5>
-										<!-- Services Heading Ends -->
-										<div class="row no-gutters">
-											<!-- Single Service Starts -->
-											<div class="single-service col-sm-6 col-12">
-												<ul>
-													<li class="service-number">
-														<span class="first-word">Service</span>
-														<span class="second-word">01</span>
-													</li>
-													<li>
-														<ul>
-															<li class="service-name">
-																<i class="fas fa-angle-double-right"></i><span>Web Design</span>
-															</li>
-															<li class="service-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore exercitationem.</li>
-														</ul>
-													</li>
-												</ul>
-											</div>
-											<!-- Single Service Ends -->
-											<!-- Single Service Starts -->
-											<div class="single-service col-sm-6 col-12">
-												<ul>
-													<li class="service-number">
-														<span class="first-word">Service</span>
-														<span class="second-word">02</span>
-													</li>
-													<li>
-														<ul>
-															<li class="service-name">
-																<i class="fas fa-angle-double-right"></i><span>Web Development</span>
-															</li>
-															<li class="service-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit dio hic deser.</li>
-														</ul>
-													</li>
-												</ul>
-											</div>
-											<!-- Single Service Ends -->
-											<!-- Single Service Starts -->
-											<div class="single-service col-sm-6 col-12">
-												<ul>
-													<li class="service-number">
-														<span class="first-word">Service</span>
-														<span class="second-word">03</span>
-													</li>
-													<li>
-														<ul>
-															<li class="service-name">
-																<i class="fas fa-angle-double-right"></i><span>UI / UX Design</span>
-															</li>
-															<li class="service-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, nostrum ad temporibus consequuntur nobis.</li>
-														</ul>
-													</li>
-												</ul>
-											</div>
-											<!-- Single Service Ends -->
-											<!-- Single Service Starts -->
-											<div class="single-service col-sm-6 col-12">
-												<ul>
-													<li class="service-number">
-														<span class="first-word">Service</span>
-														<span class="second-word">04</span>
-													</li>
-													<li>
-														<ul>
-															<li class="service-name">
-																<i class="fas fa-angle-double-right"></i><span>Photography</span>
-															</li>
-															<li class="service-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias adef trescing provident perferendis.</li>
-														</ul>
-													</li>
-												</ul>
-											</div>
-											<!-- Single Service Ends -->
-										</div>
-									</div>
 									<!-- Services Ends -->
 								</div>
 								<!-- Content Ends -->
@@ -574,7 +495,7 @@
 														<span class="icon-of-value">
 															<i class="fas fa-mobile-alt"></i>
 														</span>
-														<span class="value">+76 21 19 34 20</span>
+														<span class="value">+62 81217112817</span>
 													</li>
 													<!-- Single Contact Info Ends -->
 													<!-- Single Contact Info Starts -->
@@ -583,7 +504,7 @@
 														<span class="icon-of-value">
 															<i class="fas fa-envelope"></i>
 														</span>
-														<span class="value">you@yourwebsite.com</span>
+														<span class="value">ivan.satyagraha15@mhs.if.its.ac.id</span>
 													</li>
 													<!-- Single Contact Info Ends -->
 													<!-- Single Contact Info Starts -->
@@ -592,7 +513,7 @@
 														<span class="icon-of-value">
 															<i class="fas fa-globe"></i>
 														</span>
-														<span class="value">www.yourwebsite.com</span>
+														<span class="value">www.masamalas.com</span>
 													</li>
 													<!-- Single Contact Info Ends -->
 													<!-- Single Contact Info Starts -->
@@ -657,11 +578,7 @@
 									</div>
 									<!-- Contact Info Ends -->
 									<!-- Contact Form Starts -->
-									<div id="contact-form">
-										<!-- Contact Form Heading Starts -->
-										<h5>Contact Form</h5>
-										
-									</div>
+									
 									<!-- Contact Form Ends -->
 								</div>
 								<!-- Content Ends -->
